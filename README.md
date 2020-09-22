@@ -1,4 +1,4 @@
-# Blindness Detection Image Recognition
+# Yelp Recommedation System
 
 ----
 ## Background
