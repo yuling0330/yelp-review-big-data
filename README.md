@@ -23,7 +23,7 @@ Yelp is a business directory service and crowd-sourced review forum, as well as 
 - Download: https://www.kaggle.com/yelp-dataset/yelp-dataset
 
 ----
-### Exploratory Data Analysis:
+### Graph Analysis:
 
 <p align="center">
   <img src="https://github.com/yuling0330/yelp-review-big-data/blob/master/image/graph.png" />
