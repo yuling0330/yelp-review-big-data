@@ -26,7 +26,7 @@ Yelp is a business directory service and crowd-sourced review forum, as well as 
 ### Exploratory Data Analysis:
 
 <p align="center">
-  <img src="https://github.com/yuling0330/Blindness_Detection_Image_Recognition/blob/master/presentation/pca.PNG" />
+  <img src="https://github.com/yuling0330/yelp-review-big-data/blob/master/image/graph.png" />
 </p>
 
 ----
@@ -34,11 +34,5 @@ Yelp is a business directory service and crowd-sourced review forum, as well as 
 
 - Associate Minining
 - Sentimental Analysis
-- Graph
+- Graph Analysis
 
-----
-### Results:
-- Best modeling results using EfficientNetB5
-<p align="center">
-  <img src="https://github.com/yuling0330/Blindness_Detection_Image_Recognition/blob/master/presentation/final_resutls.PNG" />
-</p>
