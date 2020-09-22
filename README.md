@@ -22,12 +22,6 @@ Yelp is a business directory service and crowd-sourced review forum, as well as 
 - data contains: business, reviews, user, and tip information
 - Download: https://www.kaggle.com/yelp-dataset/yelp-dataset
 
-----
-### Graph Analysis:
-
-<p align="center">
-  <img src="https://github.com/yuling0330/yelp-review-big-data/blob/master/image/graph.png" />
-</p>
 
 ----
 ### Models:
@@ -35,4 +29,12 @@ Yelp is a business directory service and crowd-sourced review forum, as well as 
 - Associate Minining
 - Sentimental Analysis
 - Graph Analysis
+
+
+----
+### Graph Analysis:
+
+<p align="center">
+  <img src="https://github.com/yuling0330/yelp-review-big-data/blob/master/image/graph.png" />
+</p>
 
